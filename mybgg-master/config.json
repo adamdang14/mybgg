@@ -1,0 +1,18 @@
+{
+    "project": {
+        "name": "mybgg",
+        "title": ""
+    },
+    "boardgamegeek": {
+        "user_name": "adamdang14",
+        "extra_params": {
+            "own": 1
+        }
+    },
+    "algolia": {
+        "app_id": "P7TVICPKT2",
+        "api_key_search_only": "09f0d9191b809f14edab77167dd5058a",
+        "index_name": "A",
+        "hits_per_page": 24
+    }
+}
