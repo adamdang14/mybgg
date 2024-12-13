@@ -10,9 +10,9 @@
         }
     },
     "algolia": {
-        "app_id": "P7TVICPKT2",
-        "api_key_search_only": "09f0d9191b809f14edab77167dd5058a",
+        "app_id": "6080SSMES2",
+        "api_key_search_only": "732d7c3f2a9a59e308c40e4481c26356",
         "index_name": "A",
-        "hits_per_page": 24
+        "hits_per_page": 48
     }
 }
