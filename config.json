@@ -13,7 +13,7 @@
         "app_id": "6080SSMES2",
         "api_key_search_only": "732d7c3f2a9a59e308c40e4481c26356",
         "index_name": "A",
-        "hits_per_page": 140,
+        "hits_per_page": 24,
         "sort_by": "asc(name)"  
     }
 }
